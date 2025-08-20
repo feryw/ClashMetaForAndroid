@@ -83,7 +83,7 @@ jobs:
           tag_name: Prerelease-alpha
           files: app/build/outputs/apk/alpha/release/*
           prerelease: true
-          generate_release_notes: true
+          generate_release_notes: false
 
       - name: Release Changelog Builder
         uses: mikepenz/release-changelog-builder-action@v4
