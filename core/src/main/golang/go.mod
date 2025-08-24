@@ -61,13 +61,13 @@ require (
 	github.com/metacubex/quic-go v0.54.1-0.20250730114134-a1ae705fe295 // indirect
 	github.com/metacubex/randv2 v0.2.0 // indirect
 	github.com/metacubex/restls-client-go v0.1.7 // indirect
-	github.com/metacubex/sing v0.5.6-0.20250823162028-e4ed887cf06e // indirect
+	github.com/metacubex/sing v0.5.6-0.20250824122947-cf95e1279763 // indirect
 	github.com/metacubex/sing-mux v0.3.3-0.20250813083925-d7c9aeaeeaac // indirect
 	github.com/metacubex/sing-quic v0.0.0-20250718154553-1b193bec4cbb // indirect
 	github.com/metacubex/sing-shadowsocks v0.2.12 // indirect
 	github.com/metacubex/sing-shadowsocks2 v0.2.6 // indirect
 	github.com/metacubex/sing-shadowtls v0.0.0-20250503063515-5d9f966d17a2 // indirect
-	github.com/metacubex/sing-tun v0.4.8-0.20250824025010-f0b6b397f401 // indirect
+	github.com/metacubex/sing-tun v0.4.8-0.20250824123315-42430d59d818 // indirect
 	github.com/metacubex/sing-vmess v0.2.4-0.20250822020810-4856053566f0 // indirect
 	github.com/metacubex/sing-wireguard v0.0.0-20250503063753-2dc62acc626f // indirect
 	github.com/metacubex/smux v0.0.0-20250503055512-501391591dee // indirect
